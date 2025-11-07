@@ -8,3 +8,4 @@ nltk
 streamlit
 joblib
 requests
+streamlit-lottie
