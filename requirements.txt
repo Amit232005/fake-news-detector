@@ -10,3 +10,4 @@ joblib
 requests
 streamlit-lottie
 wordcloud
+gTTS
