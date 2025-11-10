@@ -126,7 +126,7 @@ with side:
     if lottie:
         st_lottie(lottie, height=220)
     st.markdown('**About Developer**')
-    st.markdown('- Name: Amit Barik')
+    st.markdown('- Name: Amit Barik, Anshu Kumari, Rohit Prasad')
     st.markdown('- College: Netaji Subhas University')
     st.markdown('- Project: Fake News Detector (TF-IDF & LogReg)')
     st.markdown('')
